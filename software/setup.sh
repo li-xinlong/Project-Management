@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# R3修改测试：修改setup.sh
 # ==============================
 # Node.js v22.12.0 and npm v10.9.0 Installation Script with Backend Configuration
 # ==============================
